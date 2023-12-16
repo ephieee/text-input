@@ -19,7 +19,4 @@ You can use the maxlength attribute to limit the number of characters a user may
   <p>Username:
     <input type="text" name="username" size="15" maxlength="30" />
   </p>
-  <p>Password:
-    <input type="password" name="password" size="15" maxlength="30" />
-  </p>
 </form>
